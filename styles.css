@@ -1,25 +1,2 @@
 /*  your css code here. If applicable */
-.navbar {
-  background-color: #D3D3D3;
-  padding: 10px;
-}
 
-.nav-list {
-  list-style: none;
-  padding: 0;
-  margin: 0;
-}
-
-.nav-list li {
-  display: inline;
-  margin-right: 1rem;
-}
-
-.nav-list li:last-child {
-  margin-right: 0;
-}
-
-.nav-list li a {
-  text-decoration: none;
-  color: #000000;
-}
